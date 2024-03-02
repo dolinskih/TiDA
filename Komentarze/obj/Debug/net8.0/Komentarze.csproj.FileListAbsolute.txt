@@ -1,0 +1,15 @@
+C:\Users\hachi\source\repos\TiDA\Komentarze\bin\Debug\net8.0\Komentarze.exe
+C:\Users\hachi\source\repos\TiDA\Komentarze\bin\Debug\net8.0\Komentarze.deps.json
+C:\Users\hachi\source\repos\TiDA\Komentarze\bin\Debug\net8.0\Komentarze.runtimeconfig.json
+C:\Users\hachi\source\repos\TiDA\Komentarze\bin\Debug\net8.0\Komentarze.dll
+C:\Users\hachi\source\repos\TiDA\Komentarze\bin\Debug\net8.0\Komentarze.pdb
+C:\Users\hachi\source\repos\TiDA\Komentarze\obj\Debug\net8.0\Komentarze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hachi\source\repos\TiDA\Komentarze\obj\Debug\net8.0\Komentarze.AssemblyInfoInputs.cache
+C:\Users\hachi\source\repos\TiDA\Komentarze\obj\Debug\net8.0\Komentarze.AssemblyInfo.cs
+C:\Users\hachi\source\repos\TiDA\Komentarze\obj\Debug\net8.0\Komentarze.csproj.CoreCompileInputs.cache
+C:\Users\hachi\source\repos\TiDA\Komentarze\obj\Debug\net8.0\Komentarze.sourcelink.json
+C:\Users\hachi\source\repos\TiDA\Komentarze\obj\Debug\net8.0\Komentarze.dll
+C:\Users\hachi\source\repos\TiDA\Komentarze\obj\Debug\net8.0\refint\Komentarze.dll
+C:\Users\hachi\source\repos\TiDA\Komentarze\obj\Debug\net8.0\Komentarze.pdb
+C:\Users\hachi\source\repos\TiDA\Komentarze\obj\Debug\net8.0\Komentarze.genruntimeconfig.cache
+C:\Users\hachi\source\repos\TiDA\Komentarze\obj\Debug\net8.0\ref\Komentarze.dll
